@@ -16,7 +16,7 @@ a:hover {
 }
 
 .link {
-  color: #ffeba7;
+  color: #DDFB20;
 }
 
 .link:hover {
@@ -63,7 +63,7 @@ h6 span {
   padding: 0;
   margin: 10px auto;
   cursor: pointer;
-  background-color: #ffeba7;
+  background-color: #DDFB20;
 }
 
 .checkbox:checked+label:before,
@@ -73,7 +73,7 @@ h6 span {
   width: 36px;
   height: 36px;
   border-radius: 50%;
-  color: #ffeba7;
+  color: #DDFB20;
   background-color: #020305;
   font-family: 'unicons';
   content: '\eb4f';
@@ -199,7 +199,7 @@ h6 span {
   display: -ms-inline-flexbox;
   display: inline-flex;
   align-items: center;
-  background-color: #ffeba7;
+  background-color: #DDFB20;
   color: #000000;
 }
 
