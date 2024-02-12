@@ -2,7 +2,7 @@
 
 Projetada com uma interface intuitiva e visualmente atraente, oferece uma experiência de usuário simplificada e eficiente. Com uma combinação harmoniosa de design contemporâneo e funcionalidades avançadas.
 
-O modelo atual possui credenciaiis testaveis
+O modelo atual possui credenciais testaveis
 <br>EMAIL: user@gmail.com
 <br>SENHA:123
 
