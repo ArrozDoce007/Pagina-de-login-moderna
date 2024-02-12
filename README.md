@@ -4,7 +4,7 @@ Projetada com uma interface intuitiva e visualmente atraente, oferece uma experi
 
 O modelo atual possui credenciaiis testaveis
 <br>EMAIL: user@gmail.com
-SENHA:123
+<br>SENHA:123
 
 https://pagina-de-login-moderna.netlify.app
 
