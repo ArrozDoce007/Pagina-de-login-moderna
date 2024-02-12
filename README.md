@@ -1,6 +1,6 @@
 # Pagina de login moderna
 
-Projetada com uma interface intuitiva e visualmente atraente, oferece uma experiência de usuário simplificada e eficiente. <br>Com uma combinação harmoniosa de design contemporâneo e funcionalidades avançadas como o modelo de seta que indica a tela que se encrontra de momento e ao presionarmos a mesma, ocorre uma animação fluida de troca de telas
+Projetada com uma interface intuitiva e visualmente atraente, oferece uma experiência de usuário simplificada e eficiente. <br>Com uma combinação harmoniosa de design contemporâneo e funcionalidades avançadas como o modelo de seta que indica a tela que se encontra de momento e ao presionarmos a mesma, ocorre uma animação fluida de troca de telas
 
 O modelo atual possui credenciais testaveis
 <br>EMAIL: user@gmail.com
