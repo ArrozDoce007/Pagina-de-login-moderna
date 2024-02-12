@@ -6,6 +6,6 @@ O modelo atual possui credenciais testaveis
 <br>EMAIL: user@gmail.com
 <br>SENHA:123
 
-<a class="navbar-brand" href="https://pagina-de-login-moderna.netlify.app" target="_blank">site</a>
+<a class="navbar-brand" href="https://pagina-de-login-moderna.netlify.app" target="_blank">PAGINA DE LOGIN MODERNA</a>
 
 ![Captura de tela 2024-02-11 210353](https://github.com/ArrozDoce007/Pagina-de-login-moderna/assets/143344186/9fea0b5e-053e-4b37-a79e-7bf9c8bae580)
