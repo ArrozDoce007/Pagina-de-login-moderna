@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
 
-    const email_login = "gui@gmail.com";
+    const email_login = "user@gmail.com";
     const password = "123";
 
     function handleLogin(event) {
