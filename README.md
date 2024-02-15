@@ -6,6 +6,6 @@ O modelo atual possui credenciais testaveis
 <br>EMAIL: user@gmail.com
 <br>SENHA:123
 
-<a href="https://pagina-de-login-moderna.netlify.app" target="_blank">Clique aqui para acessar a pagina</a>
+<a href="https://arrozdoce007.github.io/Pagina-de-login-moderna/">Clique aqui para acessar a pagina</a>
 
 ![Captura de tela 2024-02-11 210353](https://github.com/ArrozDoce007/Pagina-de-login-moderna/assets/143344186/9fea0b5e-053e-4b37-a79e-7bf9c8bae580)
