@@ -49,6 +49,6 @@ function validateForm(event) {
 
         alert("Cadastro concluído. Salvando dados...");
 
-        window.location.href = "../index.html";
+        window.location.href = "https://arrozdoce007.github.io/Pagina-de-login-moderna/";
     }
 }
